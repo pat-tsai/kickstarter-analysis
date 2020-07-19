@@ -20,13 +20,17 @@ Using the same dataset, I created a table using conditional count statements, ad
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The linegraph reveals that kickstarters in the theater category have the highest chance to be successful if launched in May, June, or July. In addition, those with launch dates in February, April, and August also had success rates higher than 55%. Lastly, the results also suggest those kickstarters launched in December are least likely to be successful, having less than 40% success. Since each group of months had roughly the same amount of samples, with May, June, and July having the most samples, I am confident that launching a campaign during those 3 months should lead to higher success rates.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The results of the linegraph indicate that kickstarters in the play subcategory are more likely to reach its target funding if the asking amount is between 1$ and $5000, or between $35000 and $45000. There is strong evidence indicating that projects asking for less than $5000 funding will be successful due to their larger than average sample sizes, having 86 and 320 total projects respectively in the <1000 and 1000 to 4999 groups. In addition, we can infer that kickstarters having a target funding goal >$45000 are very unlikely to be successful due to their high costs, but this conclusion is not very accurate since there were very few samples in these groups (1 in group 45000 to 49999 and 13 in >50000)
 
 - What are some limitations of this dataset?
+
 Limitations of this dataset include the limited number of samples we have per month. For example, within the play subcategory there is only 1 data value from October 2010 and December 2010, whereas there are 11 data values for April 2014. If the dataset were sufficiently large enough, it would be interesting to graph the lieklihood of kickstarter success for each month within a single year, as trends may vary from year to year based on various economical or other social factors. Furthermore, we are unaware of how each kickstarter was advertised, as some may have been actively shared through social media and advertisements, whereas others may have only been solely listed on the kickstarter website. It is possible that the more people who see the kickstarter, the more likely it is to be successful. It would also be interesting to see how many individuals backed each kickstarter, as some kickstarters that require a lot of funding may have been supported by a few large coorporations as opposed to thousands of individuals.
 
 - What are some other possible tables and/or graphs that we could create?
+
 Some other graphs and visualizations we can create from this dataset include how likely a kickstarter will be successful based on how long the campaign is launched, by subtracting the campaign launch date from campaign launch date. Since this challenge analyzed the success of US kickstarters, it would also be interesting to visualize results of other countries(ie. GB, SG, AU, etc). Lastly, we could also analyze whether being a staff pick influenced the success rate of the campaign.
