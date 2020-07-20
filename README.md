@@ -10,7 +10,7 @@ The purpose of this project was to analyze the outcomes of theater category kick
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Based on our kickstarter data from 2009-2017, I created a pivot table which revealed a significantly higher success rate for kickstarters in the theater category that began in May. However, this success rate steadily decreased over the next 4 months before reaching around 50% success rate in September. Lastly, December has the lowest theater kickstarter success rate, which could be possibly attributed to busier schedules and tighter spending during holiday seasons. I experienced no major challenges in analyzing this data, but possible challenges include filtering the category to only display theater kickstarters, and grouping the row labels to only display months instead of each individual date.
+Based on our kickstarter data from 2009-2017, I created a pivot table which revealed a significantly higher success rate for kickstarters in the theater category that began in May. However, this success rate steadily decreased over the next 4 months before reaching around a 50% success rate in September. Lastly, December has the lowest theater kickstarter success rate, which could be possibly attributed to busier schedules and tighter spending during holiday seasons. I experienced no major challenges in analyzing this data, but possible challenges include filtering the category to only display theater kickstarters, and grouping the row labels to only display months instead of each individual date.
 
 ![ScreenShot](/resources/Theater_Outcomes_vs_Launch.png)
 
