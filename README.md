@@ -15,6 +15,7 @@ Based on our kickstarter data from 2009-2017, I created a pivot table which reve
 
 ### Analysis of Outcomes Based on Goals
 Using the same dataset, I created a table using conditional count statements, adding criteria to filter outcomes and region, and sum the total number of the respective projects. From the table, I generated a line graph displaying the results. Based on the graph, I observed that kickstarters were more likely to be successful if the goal amount was between $1 and $5000, or between $35,000 to $45,000. I also observed a 60% failure rate for kickstarters requiring between $25,000 and $30,000, and 100% failure rate for those requiring $45,000 to $49,999. However, these results may not be entirely accurate since our sample size was very small for these higher-funding kickstarter groups. While writing the count formulas, I initially had trouble specifying the values, which was resolved once I added in the missing apostrophes. 
+![ScreenShot](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
