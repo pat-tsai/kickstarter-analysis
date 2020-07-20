@@ -38,7 +38,7 @@ The linegraph reveals that kickstarters in the theater category have the highest
 
 - **What can you conclude about the Outcomes based on Goals?**
 
-The results of the linegraph indicate that kickstarters in the play subcategory are more likely to reach its target funding if the asking amount is between 1$ and $5000, or between $35000 and $45000. There is strong evidence indicating that projects asking for less than $5000 funding will be successful due to their larger than average sample sizes, having 86 and 320 total projects respectively in the <1000 and 1000 to 4999 groups. In addition, we can infer that kickstarters having a target funding goal >$45000 are very unlikely to be successful due to their high costs, but this conclusion is not very accurate since there were very few samples in these groups (1 in group 45000 to 49999 and 13 in >50000)
+The results of the linegraph indicate that kickstarters in the play subcategory are more likely to reach its target funding if the asking amount is between 1$ and $5000, or between $35000 and $45000. There is strong evidence indicating that projects asking for less than $5000 funding will be successful due to their larger than average sample sizes, having 86 and 320 total projects respectively in the <1000 and 1000 to 4999 groups. In addition, we can infer that kickstarters having a target funding goal >$45000 are very unlikely to be successful due to their high costs, but this conclusion is not very accurate since there were very few samples in these groups (1 in group 45000 to 49999 and 13 in >=50000)
 
 ![ScreenShot](/resources/supplemental/Outcomes_vs_Goals_limitations.png)
 
