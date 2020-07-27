@@ -16,11 +16,11 @@ Based on our kickstarter data from 2009-2017, I created a pivot table which reve
 
 
 ### Analysis of Outcomes Based on Goals
-Using the same dataset, I created a table using conditional count statements, adding criteria to filter outcomes and region, and sum the total number of the respective projects.
+Using the same dataset, I created a table using conditional count statements, adding criteria to filter outcomes, and sum the total number of the respective projects.
 
 ![ScreenShot](/resources/supplemental/Outcomes_vs_Goals_table.png)
 
-From the table, I generated a line graph displaying the results. Based on the graph, I observed that kickstarters were more likely to be successful if the goal amount was between $1 and $5000, or between $35,000 to $45,000. I also observed a 60% failure rate for kickstarters requiring between $25,000 and $30,000, and 100% failure rate for those requiring $45,000 to $49,999. However, these results may not be entirely accurate since our sample size was very small for these higher-funding kickstarter groups. While writing the count formulas, I initially had trouble specifying the values, which was resolved once I added in the missing apostrophes. 
+From the table, I generated a line graph displaying the results. Based on the graph, I observed that kickstarters were more likely to be successful if the goal amount was between $1 and $5000, or between $35,000 to $45,000. I also observed a 80% failure rate for kickstarters requiring between $25,000 and $30,000, and 100% failure rate for those requiring $45,000 to $49,999. However, these results may not be entirely accurate since our sample size was very small for these higher-funding kickstarter groups. While writing the count formulas, I initially had trouble specifying the values, which was resolved once I added in the missing apostrophes. 
 
 ![ScreenShot](/resources/Outcomes_vs_Goals.png)
 
@@ -38,7 +38,7 @@ The linegraph reveals that kickstarters in the theater category have the highest
 
 - **What can you conclude about the Outcomes based on Goals?**
 
-The results of the linegraph indicate that kickstarters in the play subcategory are more likely to reach its target funding if the asking amount is between 1$ and $5000, or between $35000 and $45000. There is strong evidence indicating that projects asking for less than $5000 funding will be successful due to their larger than average sample sizes, having 86 and 320 total projects respectively in the <1000 and 1000 to 4999 groups. In addition, we can infer that kickstarters having a target funding goal >$45000 are very unlikely to be successful due to their high costs, but this conclusion is not very accurate since there were very few samples in these groups (1 in group 45000 to 49999 and 13 in >=50000)
+The results of the linegraph indicate that kickstarters in the play subcategory are more likely to reach its target funding if the asking amount is between 1$ and $5000, or between $35000 and $45000. There is strong evidence indicating that projects asking for less than $5000 funding will be successful due to their larger than average sample sizes, having 186 and 534 total projects respectively in the <1000 and 1000 to 4999 groups. In addition, we can infer that kickstarters having a target funding goal >$45000 are very unlikely to be successful due to their high costs, but this conclusion is not very accurate since there were very few samples in these groups (1 in group 45000 to 49999 and 16 in >=50000)
 
 ![ScreenShot](/resources/supplemental/Outcomes_vs_Goals_limitations.png)
 
